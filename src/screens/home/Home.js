@@ -1,6 +1,6 @@
 import React, { Component } from 'react';
 import './Home.css';
-import Header from '../../common/header/Header';
+import Header from '../../common/header/Header.js';
 import { withStyles } from '@material-ui/core/styles';
 import moviesData from '../../assets/movieData';
 import GridList from '@material-ui/core/GridList';
